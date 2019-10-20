@@ -8,7 +8,7 @@ LogisimKR은 Logisim을 한국어로 번역하는 프로젝트입니다.
 
 # 기여하신 분들
 - [devomegathree](https://github.com/omegathree)
-- [bdboy4665](https://github.com/sangwon090)
+- [sangwon090](https://github.com/sangwon090)
 - adghk01234
 - alswn
 - spzmfhshalzhs
